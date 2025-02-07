@@ -1,0 +1,16 @@
+.main {
+  background-image: url(image/i4.jpg);
+  height: 300px;
+}
+
+.mainin {
+  height: 200px;
+  padding: 40px;
+  color: white;
+}
+
+.content {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}

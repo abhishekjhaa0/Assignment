@@ -1,0 +1,28 @@
+.con2 {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.footer1 {
+  height: 250px;
+  background-color: rgb(2, 55, 105);
+  color: white;
+
+
+
+}
+
+.footer {
+  display: flex;
+  padding: 23px 122px;
+  justify-content: space-around;
+
+
+
+}
+
+.ull {
+  list-style: none;
+
+}

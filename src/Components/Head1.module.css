@@ -1,0 +1,23 @@
+.Head {
+  background-color: rgb(2, 55, 105);
+  height: 42px;
+  font-family: 'ubuntu', sans-serif;
+
+}
+
+.firstHead {
+  display: flex;
+  color: white;
+  align-items: center;
+  list-style-type: none;
+  justify-content: flex-end
+}
+
+.name {
+  padding: 0 20px;
+  margin: 10px 0;
+}
+
+.gml {
+  margin: -2px;
+}

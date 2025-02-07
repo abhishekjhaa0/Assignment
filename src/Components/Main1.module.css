@@ -1,0 +1,21 @@
+.img {
+  background-image: url(image/ijj.png);
+}
+
+.comp {
+  height: 200px;
+  background-color: aliceblue;
+
+}
+
+.h {
+  text-align: center;
+  padding: 30px;
+}
+
+.compp {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  font-size: large;
+}
